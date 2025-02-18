@@ -1,6 +1,32 @@
 {
-  "name": "RISU TOKEN",
-  "symbol": "RISU",
-  "description": "I am RISUUUUU.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+    "name": "PV TOKEN",
+    "symbol": "PV",
+    "description": "This is my custom token for the Solana blockchain",
+    "image": "https://github.com/priyaGanesh16/solanaaaa/blob/main/Screenshot%202025-02-12%20221443.png",
+    "external_url": "https://your-project-website.com",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Utility Token"
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": "1000000"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/priyaGanesh16/solanaaaa/blob/main/Screenshot%202025-02-12%20221443.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "token",
+        "creators": [
+            {
+                "address": "HJUtW4R2qMX24a9KedQ9NhN1QXg5djLmuxR8AiSeuT7a",
+                "share": 100
+            }
+        ]
+    }
 }
